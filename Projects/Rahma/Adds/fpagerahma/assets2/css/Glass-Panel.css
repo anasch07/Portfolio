@@ -1,0 +1,17 @@
+.btn {
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: white;
+  border-width: 1.5px;
+  border-radius: 25px;
+  background-color: transparent;
+  font-size: large;
+}
+
+.jumbotron.jumbotron-fluid.text-center {
+  color: white;
+  background: rgba(52, 58, 64, 0.4);
+  margin: auto;
+}
+
