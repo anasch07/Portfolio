@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2253f3c-daeb-4133-ba63-6e9deb8d7cea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,28 +16,50 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27vkOK2uem5wR9ndPvCgXexvygS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2KPGb0ObOEpnoXI5gNA0lDTKsOw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "W:/Coding/Personal/Portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="W:\Coding\Personal\Portfolio" />
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProfessionalSocialMediaNetwork" />
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProjectSalesDashboard" />
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProjectFireFlow" />
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\Project1Full" />
+      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProjectHr" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d2253f3c-daeb-4133-ba63-6e9deb8d7cea" name="Changes" comment="" />
-      <created>1650207914557</created>
+      <changelist id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="" />
+      <created>1673868872193</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650207914557</updated>
-      <workItem from="1650207916191" duration="1976000" />
+      <updated>1673868872193</updated>
+      <workItem from="1673868873697" duration="20476000" />
+      <workItem from="1673948496540" duration="23675000" />
+      <workItem from="1674078667488" duration="18000" />
+      <workItem from="1674119844819" duration="614000" />
     </task>
     <servers />
   </component>
