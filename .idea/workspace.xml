@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: added part time and gl3 2sems skills">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,9 @@
       <workItem from="1676652794909" duration="4834000" />
       <workItem from="1676659425015" duration="167000" />
       <workItem from="1683642475475" duration="926000" />
-      <workItem from="1683643570044" duration="615000" />
+      <workItem from="1683643570044" duration="882000" />
+      <workItem from="1683724651779" duration="14000" />
+      <workItem from="1684586996362" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="updated the Professional Social Media App project , updated the sss and feats">
       <created>1676656970711</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683643405947</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="chore: added part time and gl3 2sems skills">
+      <created>1683644453903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683644453903</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
