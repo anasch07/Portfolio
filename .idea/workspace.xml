@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: added part time and gl3 2sems skills">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: updated layout of resume subpage and updated the content of experience" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1683644453903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chore: updated layout of resume subpage and updated the content of experience">
+      <option name="closed" value="true" />
+      <created>1705776496678</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705776496679</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +153,7 @@
     <MESSAGE value="fix translation from project to project" />
     <MESSAGE value="fix paths to sss" />
     <MESSAGE value="chore: added part time and gl3 2sems skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: added part time and gl3 2sems skills" />
+    <MESSAGE value="chore: updated layout of resume subpage and updated the content of experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: updated layout of resume subpage and updated the content of experience" />
   </component>
 </project>
