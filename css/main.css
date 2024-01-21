@@ -1226,6 +1226,7 @@ textarea.form-control, textarea.form-control:focus {
 .timeline-second-style .item-period {
   margin: 3px 0;
   font-size: 14px;
+  font-weight: 300;
   line-height: 1.4em;
 }
 
@@ -1233,9 +1234,9 @@ textarea.form-control, textarea.form-control:focus {
   display: block;
   margin: 0 0 4px;
   font-size: 13px;
-  font-weight: 300;
+  font-weight: bold;
   line-height: 1.45em;
-  color: #a5a6a7;
+  color: #00060c;
 }
 
 .timeline-second-style .timeline-item:last-child .right-part {
