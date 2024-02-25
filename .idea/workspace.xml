@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: updated resume subpage and css">
-      <change afterPath="$PROJECT_DIR$/blogs/security-project-blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/securityProject.png" afterDir="false" />
+    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: added security project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-post-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/chrome-extension-blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Coding/Personal/Portfolio/blogs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding/Personal/Portfolio/blogs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Coding\Personal\Portfolio\blogs" />
@@ -95,7 +90,8 @@
       <workItem from="1705841971516" duration="814000" />
       <workItem from="1705865697548" duration="3051000" />
       <workItem from="1707058239945" duration="39000" />
-      <workItem from="1707058289002" duration="5391000" />
+      <workItem from="1707058289002" duration="6087000" />
+      <workItem from="1707224685117" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="updated the Professional Social Media App project , updated the sss and feats">
       <created>1676656970711</created>
@@ -187,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705870906475</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="chore: added security project">
+      <option name="closed" value="true" />
+      <created>1707082883170</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707082883170</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +218,7 @@
     <MESSAGE value="chore: updated cv link" />
     <MESSAGE value="chore: updated copyrights year" />
     <MESSAGE value="chore: updated resume subpage and css" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: updated resume subpage and css" />
+    <MESSAGE value="chore: added security project" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: added security project" />
   </component>
 </project>

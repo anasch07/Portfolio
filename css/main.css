@@ -1245,6 +1245,15 @@ textarea.form-control, textarea.form-control:focus {
   line-height: 1.4em;
 }
 
+
+.item-location {
+  margin: 3px 0;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.4em;
+}
+
+
 .timeline-second-style .item-company {
   display: block;
   margin: 0 0 4px;
