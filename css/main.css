@@ -1531,6 +1531,7 @@ textarea.form-control, textarea.form-control:focus {
 
 .portfolio-grid.three-columns figure {
   width: 33.33333%;
+
 }
 
 .portfolio-grid.four-columns figure {
@@ -1578,6 +1579,17 @@ textarea.form-control, textarea.form-control:focus {
   position: relative;
   overflow: hidden;
 }
+
+.portfolio-item-img img {
+
+  object-fit: contain;
+  min-height: 150px;
+  max-height: 150px;
+  height: 300px;
+  width: 600px;
+}
+
+
 
 .portfolio-grid figure .portfolio-item-img:after {
   content: '';
@@ -2572,6 +2584,11 @@ blockquote {
     width: 100%;
   }
 
+ 
+  
+
+  
+
   .portfolio-grid.three-columns figure,
   .portfolio-grid.two-columns figure {
     width: 100%;
@@ -2995,3 +3012,6 @@ blockquote {
 
 
 
+.portfolio-grid figure {
+  float: left;
+}
