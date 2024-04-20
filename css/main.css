@@ -1906,6 +1906,8 @@ textarea.form-control, textarea.form-control:focus {
   padding-top: 20px;
   padding-bottom: 30px;
   text-align: left;
+  /* distance between lines */
+  line-height: 2.2em;
 }
 
 .ajax-page-title h1 {
@@ -3015,3 +3017,4 @@ blockquote {
 .portfolio-grid figure {
   float: left;
 }
+
