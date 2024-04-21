@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: added security project">
-      <change beforePath="$PROJECT_DIR$/fireflow.html" beforeDir="false" afterPath="$PROJECT_DIR$/fireflow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/human-ressrouce-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/human-ressrouce-app.html" afterDir="false" />
+    <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="fix: fix loader name">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nexaminds.html" beforeDir="false" afterPath="$PROJECT_DIR$/nexaminds.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/professional-social-media.html" beforeDir="false" afterPath="$PROJECT_DIR$/professional-social-media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quizini.html" beforeDir="false" afterPath="$PROJECT_DIR$/quizini.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sales-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/sales-dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macbook/Documents/Coding/Personal/Portfolio",
+    "last_opened_file_path": "/Users/macbook/Documents/Coding/Personal/Portfolio/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,11 +53,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="C:\Coding\Personal\Portfolio\blogs" />
       <recent name="C:\Coding\Personal\Portfolio\img\blog" />
       <recent name="W:\Coding\Personal\Portfolio" />
       <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProfessionalSocialMediaNetwork" />
-      <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProjectSalesDashboard" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Coding\Personal\Portfolio\blogs" />
@@ -104,7 +101,7 @@
       <workItem from="1707058239945" duration="39000" />
       <workItem from="1707058289002" duration="6087000" />
       <workItem from="1707224685117" duration="368000" />
-      <workItem from="1713737497361" duration="331000" />
+      <workItem from="1713737497361" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="updated the Professional Social Media App project , updated the sss and feats">
       <created>1676656970711</created>
@@ -204,7 +201,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707082883170</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="chore: added loaders">
+      <option name="closed" value="true" />
+      <created>1713737937076</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713737937076</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chore: added loader gif">
+      <option name="closed" value="true" />
+      <created>1713738077005</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713738077005</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix: fix loader name">
+      <option name="closed" value="true" />
+      <created>1713738338334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713738338334</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +253,9 @@
     <MESSAGE value="chore: updated copyrights year" />
     <MESSAGE value="chore: updated resume subpage and css" />
     <MESSAGE value="chore: added security project" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: added security project" />
+    <MESSAGE value="chore: added loaders" />
+    <MESSAGE value="chore: added loader gif" />
+    <MESSAGE value="fix: fix loader name" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: fix loader name" />
   </component>
 </project>
