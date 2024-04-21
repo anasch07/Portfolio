@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="chore: added security project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireflow.html" beforeDir="false" afterPath="$PROJECT_DIR$/fireflow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/human-ressrouce-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/human-ressrouce-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nexaminds.html" beforeDir="false" afterPath="$PROJECT_DIR$/nexaminds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/professional-social-media.html" beforeDir="false" afterPath="$PROJECT_DIR$/professional-social-media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizini.html" beforeDir="false" afterPath="$PROJECT_DIR$/quizini.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/sales-dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Coding/Personal/Portfolio/blogs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/macbook/Documents/Coding/Personal/Portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Coding\Personal\Portfolio\blogs" />
@@ -64,6 +69,13 @@
       <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\Project1Full" />
       <recent name="W:\Coding\Personal\Portfolio\img\portfolio\full\ProjectHr" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-985749b364ce-JavaScript-WS-233.14808.24" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,6 +104,7 @@
       <workItem from="1707058239945" duration="39000" />
       <workItem from="1707058289002" duration="6087000" />
       <workItem from="1707224685117" duration="368000" />
+      <workItem from="1713737497361" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="updated the Professional Social Media App project , updated the sss and feats">
       <created>1676656970711</created>
