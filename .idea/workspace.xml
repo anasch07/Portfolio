@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd83a9a-1d17-4e0a-bb6b-89ce3e820745" name="Changes" comment="fix: fix loader">
-      <change beforePath="$PROJECT_DIR$/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/loader.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nexaminds.html" beforeDir="false" afterPath="$PROJECT_DIR$/nexaminds.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
       <workItem from="1707058239945" duration="39000" />
       <workItem from="1707058289002" duration="6087000" />
       <workItem from="1707224685117" duration="368000" />
-      <workItem from="1713737497361" duration="2228000" />
+      <workItem from="1713737497361" duration="2570000" />
     </task>
     <task id="LOCAL-00001" summary="updated the Professional Social Media App project , updated the sss and feats">
       <created>1676656970711</created>
@@ -247,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713739722573</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix: fix loader">
+      <option name="closed" value="true" />
+      <created>1713739925235</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713739925235</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
