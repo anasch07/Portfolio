@@ -490,8 +490,16 @@ input[type="submit"]:focus {
 /* --- End Social Links --- */
 
 .header-buttons {
-  margin-top: 50px;
+  margin-top: 4vh;
 }
+
+
+@media only screen and (max-width: 1280px) {
+  .header-buttons {
+    margin-top: 3vh;
+  }
+}
+
 
 .header-buttons .btn-primary {
   background-color: transparent;
