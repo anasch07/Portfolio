@@ -289,6 +289,15 @@ input[type="submit"]:focus {
   .header-titles {
 
   }
+  .header-titles h2 {
+    margin-bottom: 10px; /* Adjust this value to the desired spacing */
+  }
+
+  .header-titles h4 {
+    margin-top: 5px; /* Adjust this value to create space between the <h4> elements */
+    margin-bottom: 5px; /* Optional, to control spacing under each <h4> */
+  }
+
 
   /* --- Navigation --- */
   ul.main-menu {
